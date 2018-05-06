@@ -1,4 +1,4 @@
-project_name
+Titanic
 ==============================
 
 Titanic data science challenge
